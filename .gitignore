@@ -1,0 +1,4 @@
+environments/*.yml
+logs/*
+MYMETA.*
+Makefile
